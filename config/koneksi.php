@@ -3,7 +3,7 @@ class Koneksi {
     private $host     = "127.0.0.1"; 
     private $user     = "root";  
     private $password = "";
-    private $db_name  = "db_bukutamu"; 
+    private $db_name  = "db_bukutamu_web2"; 
     public $conn;
 
     public function getConnection() {
