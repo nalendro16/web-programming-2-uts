@@ -1,0 +1,37 @@
+.bg-knicks-blue {
+  background-color: #006bb6 !important;
+  color: white;
+}
+.bg-knicks-orange {
+  color: white;
+  background-color: #f58426 !important;
+}
+.text-knicks-blue {
+  color: #006bb6 !important;
+}
+
+.btn-knicks-orange {
+  color: white;
+  background-color: #f58426 !important;
+  border: none;
+}
+.btn-knicks-orange:hover {
+  background-color: #d46b1c !important;
+  color: white;
+}
+
+.btn-knicks-blue {
+  color: white;
+  border: none;
+  background-color: #006bb6 !important;
+}
+.btn-knicks-blue:hover {
+  background-color: #00548f !important;
+  color: white;
+}
+
+.table-knicks-header {
+  color: #006bb6;
+  background-color: #e9ecef;
+  font-weight: bold;
+}
